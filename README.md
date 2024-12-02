@@ -1,0 +1,1 @@
+This project focuses on analyzing customer churn to identify the key factors contributing to customer attrition and recommend actionable strategies to improve retention. By leveraging demographic data, service usage patterns, and payment behaviors, this analysis provides insights into reducing churn rates effectively.
